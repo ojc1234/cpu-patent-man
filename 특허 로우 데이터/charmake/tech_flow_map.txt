@@ -1,0 +1,421 @@
+--- 기술흐름도 (Assignee별 연대순) ---
+
+출원인: Alibaba Group Holding Limited
+  2020년:
+    - A data storing method, device and system
+    - System and method for quality of service assurance of multi-stream scenarios in a hard disk drive
+    - System and method for quality of service assurance of multi-stream scenarios in a hard disk drive
+  2021년:
+    - Method and system for organizing nand blocks and placing data to facilitate high-throughput for random writes in a solid state drive
+    - Method and system for organizing nand blocks and placing data to facilitate high-throughput for random writes in a solid state drive
+    - System and method for facilitating data storage with low-latency input/output and persistent data
+    - System and method for facilitating data storage with low-latency input/output and persistent data
+
+출원인: Alibaba Group Holding Ltd.
+  2021년:
+    - Method and system for organizing nand blocks and placing data in a solid state drive to facilitate random write-in high throughput
+    - Method and system for organizing nand blocks in a solid state drive and placing data for high throughput for random writing
+
+출원인: Analysis Solution LLC, Dba Gearbit
+  2015년:
+    - High-speed data storage
+
+출원인: Beijing Jinqun Technology Co., Ltd.
+  2020년:
+    - A high performance data storing method, system and device
+    - High-performance data storage method, system and device
+
+출원인: Beijing Leadstor Technology Co., Ltd.
+  2017년:
+    - In a hybrid storage system ssd management method and device
+
+출원인: Beijing Superstring Academy Of Memory Technology
+  2024년:
+    - Data storage method, device, system and device based on zns-ssd
+
+출원인: Chengdu Biwin Storage Technology Co., Ltd.
+  2021년:
+    - L2p data caching method, device, readable storage medium and electronic device
+    - L2p data caching method, device, readable storage media and electronic device
+
+출원인: Chongqing University
+  2013년:
+    - A phase change memory with rapid response loss equalization method
+
+출원인: Chongqing University Of Posts And Telecommunications
+  2024년:
+    - Zone reset optimization method based on zns ssds
+
+출원인: Corel Corporation
+  2010년:
+    - System and method for caching multimedia data
+    - System and method for caching multimedia data
+
+출원인: Dell Products L.p.
+  2022년:
+    - System and method of backing up data from a volatile memory medium to a non-volatile memory medium
+
+출원인: Dell Products, Lp
+  2016년:
+    - Efficient combination of storage devices for maintaining metadata
+
+출원인: Dezhou University
+  2016년:
+    - A centralized check disk array eliminate partial lowercase operating in parallel
+    - A distributed check type disk array eliminate partial lowercase operating in parallel
+    - A double-disk fault-tolerant disk array eliminate partial lowercase operating in parallel
+    - A centralized check disk array eliminate partial parallel in operation
+    - A distributed check type disk array to eliminate partial parallel in operation
+    - A double-disk fault-tolerant disk array eliminate partial parallel in operation
+
+출원인: Electronics And Telecommunications Research Institute
+  2022년:
+    - Method for reducing write latency using pre-allocation and apparatus using the same
+
+출원인: Emc Ip Holding Company LLC
+  2021년:
+    - Sequentially writing metadata into a solid state disk by redirect-on-write
+    - Method for storing, device and computer program product
+    - Method, device and computer program product for storage
+
+출원인: Georgia Tech Research Corporation
+  2015년:
+    - Multi-tiered storage systems and methods for adaptive content streaming
+    - Multi-tiered storage systems and methods for adaptive content streaming
+
+출원인: Hewlett Packard Enterprise Development Lp
+  2014년:
+    - Request sent to storage device based on moving average
+    - Request sent to storage device based on moving average
+  2015년:
+    - Scalable indexing
+
+출원인: Hosin Global Electronics Co., Ltd.
+  2021년:
+    - Memory control method, memory storage device and memory controller
+    - Memory control method, memory storage device and memory controller
+
+출원인: Huawei Technologies Co., Ltd.
+  2023년:
+    - Intelligent data placement on hierarchical storage
+
+출원인: Huazhong University Of Science And Technology
+  2020년:
+    - Virtual multi-channel sdram access method supporting flexible block access
+    - Virtual multi-channel sdram access method supporting flexible partition access
+  2023년:
+    - Data placing method and system suitable for zns ssd write amplification optimization
+
+출원인: Hunan Goke Microelectronics Co., Ltd.
+  2017년:
+    - A not with dram ssd reliability lifting system and method
+
+출원인: Innogrit Technologies Co., Ltd.
+  2023년:
+    - Storage device and storage system
+
+출원인: Institute Of Software, Chinese Academy Of Sciences
+  2016년:
+    - A ring structure of data placement method
+
+출원인: Intel Corp
+  2018년:
+    - A last level cache memory efficient architecture
+
+출원인: Intel Corporation
+  2021년:
+    - Host managed buffer to store a logical-to physical address table for a solid state drive
+    - Host managed buffer to store a logical-to physical address table for a solid state drive
+  2023년:
+    - Reducing write amplification and over-provisioning using flash translation layer synchronization
+
+출원인: International Business Machines Corporation
+  2012년:
+    - Controlling the selectively setting of operational parameters for an adapter
+  2014년:
+    - Method of address generation in the active memory device and its processing device
+    - Translation of input/output addresses to memory addresses
+    - Store peripheral component interconnect (pci) function controls instruction
+  2015년:
+    - Managing high performance storage systems with hybrid storage technologies
+  2016년:
+    - Using a migration threshold and a candidate list for cache management of sequential write storage
+    - Migration decision window selection based on hotspot characteristics
+  2020년:
+    - Write data allocation in storage system
+    - Write data allocation in storage system
+  2021년:
+    - Zone storage data placement
+    - Zone storage data placement
+  2024년:
+    - Selectively migrating write data between caches of different storage systems to prevent cache overdrive
+
+출원인: Kabushiki Kaisha Toshiba
+  2017년:
+    - Memory system
+
+출원인: Kioxia Corporation
+  2017년:
+    - Memory system and method for controlling nonvolatile memory
+  2020년:
+    - Storage system having a host directly manage physical data locations of storage device
+  2021년:
+    - Storage system having a host directly manage physical data locations of storage device
+  2023년:
+    - Storage system and method
+
+출원인: Linewell Software Co., Ltd.
+  2019년:
+    - A method for improving performance and service life of solid hard disk array system
+
+출원인: Mediatek Inc.
+  2016년:
+    - Method and apparatus for controlling data migration in multi-channel memory device
+  2018년:
+    - Method and apparatus for controlling data migration in multi-channel memory device
+
+출원인: Mercedes-benz Group Ag
+  2023년:
+    - Method for configuring data storage system of automobile with driving auxiliary function
+
+출원인: Micron Technology Inc.
+  2020년:
+    - Accelerated data access via data stream isolation in a memory system
+  2021년:
+    - Dynamic data placement for avoiding collisions between concurrent write flows
+    - Dynamic data placement for avoiding collisions between concurrent write streams
+    - Dynamic memory address write strategy transition based on performance requirements
+
+출원인: Micron Technology, Inc.
+  2020년:
+    - Dynamic data placement for collision avoidance among concurrent write streams
+    - Dynamic data placement for collision avoidance among concurrent write streams
+  2021년:
+    - Managing sequential write performance consistency for memory devices
+    - Managing sequential write performance consistency for memory devices
+
+출원인: Microsoft Technology Licensing LLC
+  2020년:
+    - Performance counters for computer memory
+
+출원인: National University Of Defense Technology Of Pla
+  2019년:
+    - Layered mixed storage method and system of tile recording disk
+
+출원인: Netapp, Inc.
+  2015년:
+    - Nvram caching and logging in a storage system
+    - Data storage within hybrid storage aggregate
+    - Data storage within hybrid storage aggregate
+
+출원인: No.709 Research Institute Of China Shipbuilding Industry Corporation
+  2013년:
+    - A raid5 write io optimization processing method
+    - A raid5 write io optimization processing method
+
+출원인: Open Drives, Inc.
+  2018년:
+    - Storage optimization based i/o pattern modeling
+    - Storage optimization based i/o pattern modeling
+
+출원인: Orca Data Technology (xi'an) Co., Ltd.
+  2020년:
+    - Data physical location mapping method on single node in a distributed storage system
+
+출원인: Pure Storage, Inc.
+  2021년:
+    - Optimizing storage device access based on latency
+    - Optimizing storage device access based on latency
+    - Utilizing allocation shares to improve parallelism in a zoned drive storage system
+    - Utilizing allocation shares to improve parallelism in a zoned drive storage system
+  2023년:
+    - Performing low latency operations using a distinct set of resources
+    - Performing low latency operations using a distinct set of resources
+    - Latency reduction of flash-based devices using programming interrupts
+  2025년:
+    - Reducing latency in flash-based devices using programming interrupts
+
+출원인: Qualcomm Inc
+  2017년:
+    - The memory management of the memory element
+
+출원인: Qualcomm Incorporated
+  2024년:
+    - Efficient striping of sequential pcie write across multiple jack-to-jack links
+
+출원인: Ramaxel Technology (shenzhen) Co., Ltd.
+  2014년:
+    - Improve the partition order read/write performance of the method and its system
+
+출원인: Ramaxel Technology Ltd.
+  2012년:
+    - Method and system for reducing write amplification of solid hard disk
+
+출원인: Red Hat, Inc.
+  2022년:
+    - Reducing wear on zoned storage devices for storing digital data
+    - Reducing wear on zoned storage devices for storing digital data
+
+출원인: Samsung (china) Semiconductor Co., Ltd.; Samsung Electronics Co., Ltd.
+  2020년:
+    - Method and device for determining data in the ssd placement strategy
+    - Method and device for determining data placing strategy in ssd
+  2023년:
+    - Bandwidth control method and storage device
+
+출원인: Samsung Electronics Co., Ltd.
+  2014년:
+    - Nonvolatile memory system, system including the same, and method of adaptively adjusting user storage region in the same
+    - Non-volatile memory system, system having the same and method for performing adaptive user storage region adjustment in the same
+    - Nonvolatile memory system, system including the same, and method of adaptively adjusting user storage region in the same
+    - Non-volatile memory system, system having the same and method for performing adaptive user storage region adjustment in the same
+  2021년:
+    - Method and device for determining strategy for data placement within ssd
+    - Method and device for determining strategy for data placement within ssd
+    - Method and device for determining strategy for data placement within ssd
+  2022년:
+    - Worflow-based partition allocation
+  2024년:
+    - Storage device including nonvolatile memory device and operating method of storage device
+    - Storage device including nonvolatile memory device and operating method of storage device
+    - Bandwidth control method and storage device
+    - Storage device and operating method thereof
+
+출원인: Sandisk Technologies Inc.
+  2025년:
+    - Zone-based garbage collection in zns ssd
+
+출원인: Sandisk Technologies, Inc.
+  2013년:
+    - Methods, systems, and computer readable media for optimization of host sequential reads or writes based on volume of data transfer
+  2016년:
+    - Systems and methods for managing storage endurance
+    - Systems and methods for managing storage endurance
+  2018년:
+    - Memory apparatus and methods thereof for write amplification aware wear leveling
+  2021년:
+    - Storage system and method for using host-assisted variable zone speed grade modes to minimize overprovisioning
+    - Storage system, host, and method for extended and imaginary logical-to-physical address mapping
+  2022년:
+    - Zoned namespaces in solid-state drives
+    - Command prioritization to reduce latencies of zone commands
+  2023년:
+    - Storage system and method for data placement in zoned storage
+    - Stream oriented writing for improving sequential write and read performance
+    - Stream oriented writing for improving sequential write and read performance
+    - Storage system and method for data placement in zoned storage
+    - Adaptive multi-stream classification for data storage systems
+    - Adaptive multi-stream classification for data storage systems
+    - Maximizing performance through traffic balancing
+    - Maximizing performance through traffic balancing
+    - Out of order data transfer hint calibration
+    - Out of order data transfer hint calibration
+  2024년:
+    - Efficient deallocation and reset of zones in storage device
+    - Victim zone selection for zone compaction during garbage collection in zns devices
+    - Hybrid logical to physical mapping for zns based ssds
+    - Victim zone selection for zone compaction during garbage collection in zns devices
+    - Hybrid logical to physical mapping for zns based ssds
+    - Zone-based garbage collection in zns ssds
+
+출원인: Seagate Technology LLC
+  2017년:
+    - Zone forward drive management
+    - Zone forward drive management
+
+출원인: Shandong Yingxin Computer Technology Co., Ltd.
+  2021년:
+    - A solid hard disk writing block data processing method, device, device and medium
+    - A solid hard disk writing block data processing method, device, device and medium
+
+출원인: Shandong Yunhai Guochuang Cloud Computing Equipment Industry Innovation Center Co., Ltd.
+  2022년:
+    - Block management method, device, device and storage medium of flash memory conversion layer
+    - Block management method of flash memory conversion layer, device storage medium device and
+  2023년:
+    - An off-chip ddr bandwidth unloading method under raid order writing scene, terminal and storage medium
+
+출원인: Shanghai University
+  2022년:
+    - Non-contact interactive system based on photoelectric sensor array
+
+출원인: Shanghai V&g Information Technology Co., Ltd.
+  2019년:
+    - A data intelligent memory management method and device
+
+출원인: Shenzhen Dapu Microelectronics Technology Co., Ltd.
+  2020년:
+    - A data writing method, device and dram-less solid hard disk
+
+출원인: Shenzhen Unionmemory Information System Limited
+  2018년:
+    - With aging of the data reading/writing method, device, computer device and storage medium
+  2019년:
+    - Solid state disk write method, apparatus, computer apparatus, and storage medium
+
+출원인: Silicon Motion Inc.
+  2020년:
+    - Method of memory control, memory device, memory controller and storage server
+
+출원인: Silicon Motion, Inc.
+  2022년:
+    - Flash memory controller mechanism capable of generating host-based cache information or flash-memory-based cache information to build and optimize binary tree with fewer nodes when cache stores data from host
+    - Flash memory controller mechanism capable of generating host-based cache information or flash-memory-based cache information to build and optimize binary tree with fewer nodes when cache stores data from host
+
+출원인: Sk Hynix Inc.
+  2019년:
+    - System and method for discovering parallelism of memory devices
+    - System and method for discovering parallelism of memory devices
+  2021년:
+    - Systems and methods for dynamic logical block address distribution between multicores
+  2023년:
+    - Data processing system and operating method thereof
+
+출원인: Sk Hynix Inc.; Industry-academic Cooperation Foundation, Dankook University
+  2023년:
+    - Device for detecting zone parallelity of a solid state drive and operating method thereof
+
+출원인: Sk Hynix Nand Product Solutions Corp.
+  2016년:
+    - Sequential write stream management
+
+출원인: Solid State Storage Technology Corporation
+  2016년:
+    - Managing method for cache memory of solid state drive
+
+출원인: Soochow University
+  2019년:
+    - Caching method, system, device and readable storage media for edge computing
+    - Caching method, system, device and readable storage media for edge computing
+
+출원인: Streamax Technology Co., Ltd.
+  2016년:
+    - A monitoring data writing method and device
+
+출원인: Vmware LLC
+  2014년:
+    - Transparent virtualization of cloud storage
+
+출원인: Western Digital Technologies, Inc.
+  2016년:
+    - Garbage collection and data relocation for data storage system
+
+출원인: Wuhan Lugu Technology Co., Ltd.
+  2023년:
+    - Data organizing method for log recording application based on zns solid state hard disk
+    - Data organizing method for log recording application based on zns solid state hard disk
+    - Realizing method based on zns solid hard disk raid
+    - Realizing method based on zns solid hard disk raid
+
+출원인: Xi'an Jiaotong University
+  2020년:
+    - Data management method facing ssd and ha-smr mixed storage system, storage medium and device
+    - Data management method facing ssd and ha-smr hybrid storage system, storage medium and device
+
+출원인: Yeestor Microelectronics Co., Ltd.
+  2022년:
+    - Ssd data storage method, ssd, terminal device and storage medium
+
+출원인: Zhengzhou Yunhai Information Technology Co., Ltd.
+  2018년:
+    - A high-end storage environment management system
