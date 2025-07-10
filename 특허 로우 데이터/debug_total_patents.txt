@@ -1,0 +1,175 @@
+Total Patents per Assignee (after overrides, before top 5 filter):
+Assignee
+Samsung Electronics Co., Ltd.                                                                                                                                                               655502
+Sandisk Technologies, Inc.                                                                                                                                                                  575562
+Sk Hynix Inc.                                                                                                                                                                                28736
+Micron Technology, Inc.                                                                                                                                                                      22768
+Netapp, Inc.                                                                                                                                                                                  2714
+International Business Machines Corporation                                                                                                                                                     24
+Phison Electronics Corp.                                                                                                                                                                        18
+Huawei Technologies Co., Ltd.                                                                                                                                                                   17
+Intel Corporation                                                                                                                                                                               16
+Micron Technology Inc.                                                                                                                                                                          16
+Western Digital Technologies, Inc.                                                                                                                                                              16
+Silicon Motion, Inc.                                                                                                                                                                            16
+Kioxia Corporation                                                                                                                                                                              15
+Seagate Technology LLC                                                                                                                                                                          13
+Emc Ip Holding Company LLC                                                                                                                                                                      13
+Pure Storage, Inc.                                                                                                                                                                              11
+Alibaba Group Holding Limited                                                                                                                                                                   10
+Wuhan Lugu Technology Co., Ltd.                                                                                                                                                                  8
+Sandisk Technologies LLC                                                                                                                                                                         8
+Dezhou University                                                                                                                                                                                6
+Mimirip LLC                                                                                                                                                                                      6
+Silicon Motion Inc.                                                                                                                                                                              5
+Hitachi, Ltd.                                                                                                                                                                                    5
+Meta Platforms, Inc.                                                                                                                                                                             5
+Huazhong University Of Science And Technology                                                                                                                                                    5
+Microsoft Technology Licensing, LLC                                                                                                                                                              5
+Innovations In Memory LLC                                                                                                                                                                        4
+Sony Corporation                                                                                                                                                                                 4
+Guangdong University Of Technology                                                                                                                                                               4
+Hewlett Packard Enterprise Development Lp                                                                                                                                                        4
+Alter Domus (us) LLC, As Agent For The Secured Parties                                                                                                                                           4
+Scaleflux, Inc.                                                                                                                                                                                  4
+Suzhou Inspur Intelligent Technology Co., Ltd.                                                                                                                                                   3
+Kabushiki Kaisha Toshiba                                                                                                                                                                         3
+Mediatek Inc.                                                                                                                                                                                    3
+Chongqing University Of Posts And Telecommunications                                                                                                                                             3
+Bip By Ddn, Inc.                                                                                                                                                                                 3
+Alibaba (china) Co., Ltd.                                                                                                                                                                        3
+Chengdu Boynn Times Software Co., Ltd.                                                                                                                                                           3
+Shenzhen Unionmemory Information System Limited                                                                                                                                                  3
+Avalanche Technology, Inc.                                                                                                                                                                       3
+Western Digital Technologies Inc.                                                                                                                                                                3
+Shenzhen Longsys Electronics Co., Ltd.                                                                                                                                                           3
+Shenzhen Netcom Electronics Co., Ltd.                                                                                                                                                            3
+No.709 Research Institute Of China Shipbuilding Industry Corporation                                                                                                                             2
+Samsung Electronics Co., Ltd.; Dawin Technology Inc.                                                                                                                                             2
+Shenzhen Biwin Storage Technology Co., Ltd.                                                                                                                                                      2
+Ramaxel Technology (shenzhen) Co., Ltd.                                                                                                                                                          2
+Inspur Electronic Information Industry Co., Ltd.                                                                                                                                                 2
+Simplivt Corporation                                                                                                                                                                             2
+Shenzhen Dapu Microelectronics Technology Co., Ltd.                                                                                                                                              2
+Memory Technologies LLC                                                                                                                                                                          2
+Jiangsu Hongxin Technology Co., Ltd.; Taixing Port Group Co., Ltd.                                                                                                                               2
+Micron Technolgy, Inc.                                                                                                                                                                           2
+Jinan University [guangdong]                                                                                                                                                                     2
+Kingspec Electronics Technology Co., Ltd.                                                                                                                                                        2
+National University Of Defense Technology, Pla                                                                                                                                                   2
+Lemon Inc.                                                                                                                                                                                       2
+Nanjing University Of Posts And Telecommunications                                                                                                                                               2
+Micron Techology, Inc.                                                                                                                                                                           2
+Sichuan Cinghoo Technology Co., Ltd.                                                                                                                                                             2
+Innogrit Technologies Co., Ltd.                                                                                                                                                                  2
+Micron Technology, Inc                                                                                                                                                                           2
+Seagate Technology International                                                                                                                                                                 2
+China Telecom Corporation Limited                                                                                                                                                                2
+Emc Ip Holding Company, LLC                                                                                                                                                                      2
+Avago Technologies General Ip (singapore) Pte. Ltd.                                                                                                                                              2
+Chengdu Biwin Storage Technology Co., Ltd.                                                                                                                                                       2
+Zhengzhou Yunhai Information Technology Co., Ltd.                                                                                                                                                2
+Hunan Goke Microelectronics Co., Ltd.                                                                                                                                                            2
+Chongqing University                                                                                                                                                                             2
+Commvault Systems, Inc.                                                                                                                                                                          2
+Apacer Technology Inc.                                                                                                                                                                           2
+Corel Corporation                                                                                                                                                                                2
+Credit Suisse Ag, Cayman Islands Branch                                                                                                                                                          2
+Daedalus Cloud LLC                                                                                                                                                                               2
+Xi'an Jiaotong University                                                                                                                                                                        2
+Dell Products L.p.                                                                                                                                                                               2
+Anyka (guangzhou) Microelectronics Technology Co., Ltd.                                                                                                                                          2
+Anhui University                                                                                                                                                                                 2
+Alibaba Group Holding Ltd.                                                                                                                                                                       2
+Southeast University                                                                                                                                                                             2
+South China Normal University                                                                                                                                                                    2
+Hefei Core Storage Electronic Limited                                                                                                                                                            2
+Hefei Corestorage Electronic Co., Ltd.                                                                                                                                                           2
+Soochow University                                                                                                                                                                               2
+Song Zijian; Liu Gaofeng                                                                                                                                                                         2
+Skymedi Corporation                                                                                                                                                                              2
+Solid State Storage Technology Corporation                                                                                                                                                       2
+Huanghuai University                                                                                                                                                                             2
+Senda (shenzhen) Technology Co., Ltd.                                                                                                                                                            1
+Zhejiang University                                                                                                                                                                              1
+Yeestor Microelectronics Co., Ltd.                                                                                                                                                               1
+Shenzhen Dapu Microelectronics Co., Ltd.                                                                                                                                                         1
+Shandong Sinochip Semiconductors Ltd.                                                                                                                                                            1
+Zhengzhou Yunhai Information Technology Limited Company                                                                                                                                          1
+Shanghai University                                                                                                                                                                              1
+Shanghai Jiao Tong University                                                                                                                                                                    1
+Shandong Huaxin Semiconductor Co., Ltd.                                                                                                                                                          1
+Yaoyun Technology (xi'an) Co., Ltd.                                                                                                                                                              1
+Sk Hynix Inc                                                                                                                                                                                     1
+Xfusion Digital Technologies Co., Limited                                                                                                                                                        1
+Shenzhen Sandiyixin Electronic Co., Ltd.                                                                                                                                                         1
+Silicongo Microelectronics Co., Ltd.                                                                                                                                                             1
+Suzhou Kuhan Information Technology Co., Ltd.                                                                                                                                                    1
+Suzhou Qiheng Rongzhi Information Technology Co., Ltd.                                                                                                                                           1
+Sichuan Xiaolvyuan Information Security Technology Co., Ltd.                                                                                                                                     1
+Suzhou Weiketao Information Technology Co., Ltd.                                                                                                                                                 1
+Suzhou Yuannao Intelligent Technology Co., Ltd.                                                                                                                                                  1
+Shenzhen Zte Microelectronics Technology Co., Ltd.                                                                                                                                               1
+The Board Of Trustees Of The Leland Stanford Junior University                                                                                                                                   1
+Shenzhen Yeestor Microelectronics Co., Ltd.                                                                                                                                                      1
+The First Institute Of Oceanography, Mnr; Hangzhou Ruixun Technology Co., Ltd.; National Deep Sea Center                                                                                         1
+Unity Semiconductor Corporation                                                                                                                                                                  1
+Vmware LLC                                                                                                                                                                                       1
+Wuhan Guangyi Technology Co., Ltd.                                                                                                                                                               1
+Shenzhen Skyworth Qunxin Security Technology Co., Ltd.                                                                                                                                           1
+Shenzhen Shichuangyi Electronic Co., Ltd.                                                                                                                                                        1
+Sk Hynix Inc.; Industry-academic Cooperation Foundation, Dankook University                                                                                                                      1
+"silicon Motion, Inc."                                                                                                                                                                           1
+Sandisk Technologies Inc.                                                                                                                                                                        1
+Hitachi Vantara, Ltd.                                                                                                                                                                            1
+Henan Chuangxinke Information Technology Co., Ltd.                                                                                                                                               1
+Hangzhou Hikvision Digital Technology Co., Ltd.                                                                                                                                                  1
+Hangzhou Dianzi University                                                                                                                                                                       1
+Guangzhou College Of South China University Of Technology                                                                                                                                        1
+Gigadevice Semiconductor Beijing Inc.                                                                                                                                                            1
+First Institute Of Oceanography, Mnr; Hangzhou Ruixun Technology Co., Ltd.; National Deep Sea Center                                                                                             1
+Eastcompeace Technology Co., Ltd.                                                                                                                                                                1
+Dalian University                                                                                                                                                                                1
+Chongqing Aerospace Polytechnic                                                                                                                                                                  1
+Cheon Won-moon; Kim Seon-taek; Park Chan-ik; Choi Sung-up                                                                                                                                        1
+Chengdu Xinyilian Information Technology Co., Ltd.                                                                                                                                               1
+Chengdu Xinsheng Integrated Circuit Co., Ltd.                                                                                                                                                    1
+Burlywood LLC                                                                                                                                                                                    1
+Boe Technology Group Co., Ltd.                                                                                                                                                                   1
+Beijing Tenafe Electronic Technology Co., Ltd.                                                                                                                                                   1
+Beijing Telemetry Technology Institute; Aerospace Long March Launch Vehicle Technology Co., Ltd.                                                                                                 1
+Beijing Memblaze Technology Co., Ltd.                                                                                                                                                            1
+Beijing Jingcun Technology Co., Ltd.; Hefei Branch, Etown Memtek Ltd.                                                                                                                            1
+Beijing Duyou Information Technology Co., Ltd.                                                                                                                                                   1
+Beihang University                                                                                                                                                                               1
+Auspitek Technology (shenzhen) Co., Ltd.                                                                                                                                                         1
+Arkmicro Technologies Inc.                                                                                                                                                                       1
+Advanced Magnetic Interaction (ami)                                                                                                                                                              1
+Heyangtek Cooperation Limited                                                                                                                                                                    1
+Huaian Power Supply Company, State Grid Jiangsu Electric Power Company; Lianshui County Power Supply Company, State Grid Jiangsu Electric Power Company; State Grid Corporation Of China         1
+Sandisk Corporation                                                                                                                                                                              1
+Huawei Tech Co Ltd                                                                                                                                                                               1
+Samsung Electronics Co., Ltd                                                                                                                                                                     1
+Samsung (china) Semiconductor Co., Ltd.; Samsung Electronics Co., Ltd.                                                                                                                           1
+Rosenband, Daniel L                                                                                                                                                                              1
+Ramaxel Technology Ltd.                                                                                                                                                                          1
+Qingdao Hisense Electric Co., Ltd.                                                                                                                                                               1
+Ping An Technology (shenzhen) Co., Ltd.                                                                                                                                                          1
+Peking University Shenzhen Graduate School; Pku-hkust Shenzhen-hongkong Institution                                                                                                              1
+Orca Data Technology (xi'an) Co., Ltd.                                                                                                                                                           1
+Oracle International Corporation                                                                                                                                                                 1
+Nutanix, Inc.                                                                                                                                                                                    1
+Novatek Microelectronics Corp.                                                                                                                                                                   1
+Nexsan Corporation                                                                                                                                                                               1
+Microsoft Technology Licensing, LLC.                                                                                                                                                             1
+Adata Technology Co., Ltd.                                                                                                                                                                       1
+Lite-on Technology Corporation                                                                                                                                                                   1
+Lite-on It Corporation                                                                                                                                                                           1
+Liang Chen                                                                                                                                                                                       1
+Jilin University                                                                                                                                                                                 1
+Institute Of Computing Technology, Chinese Academy Of Sciences; Tianjin Zhongke Bluewhale Information Technology Co., Ltd.                                                                       1
+Institute Of Computing Technology, Chinese Academy Of Sciences; Tianjin Zhongke Bluewhale Information Co., Ltd.                                                                                  1
+Icloud Innovation (beijing) Technology Co., Ltd.                                                                                                                                                 1
+Hubei Normal University                                                                                                                                                                          1
+Huazhong University Of Science & Technology                                                                                                                                                      1
+Zte Corporation.                                                                                                                                                                                 1

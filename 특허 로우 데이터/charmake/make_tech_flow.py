@@ -21,7 +21,7 @@ def read_csv_file(file_path):
     return data
 
 def main():
-    file_path = "/Users/jichal/cpu 메인 파일/특허 로우 데이터/AA_Zoned Storage 기술의 성능 향상 191 모든 리소스.csv"
+    file_path = "/Users/jichal/cpu 메인 파일/특허 로우 데이터/AB_ Zoned Storage 유지관리 기술의 성능 향상 826 모든 리소스.csv"
     csv_data = read_csv_file(file_path)
 
     if not csv_data:

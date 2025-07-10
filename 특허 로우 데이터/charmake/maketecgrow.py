@@ -1,11 +1,5 @@
 import csv  # csv 파일 작업을 위한 모듈
 import matplotlib.pyplot as plt  # 그래프 생성을 위한 라이브러리
-def main():
-    print("Hello from charmake!")
-    test()
-if __name__ == "__main__":
-    main()
-    
 def read_csv_file(file_path):
     """
     Reads a CSV file and returns the data as a list of dictionaries.
@@ -20,7 +14,14 @@ def read_csv_file(file_path):
 
 def test():
     print("test() 함수 실행 중...")
-    file_path = "/Users/jichal/cpu 메인 파일/특허 로우 데이터/AA_Zoned Storage 기술의 성능 향상 191 모든 리소스.csv"
+    
+    # Set font for all text in the plot
+    # Using 'Malgun Gothic' for Korean character support. If this font is not available, try 'NanumGothic' or other Korean fonts.
+    plt.rcParams['font.family'] = 'Malgun Gothic'
+    plt.rcParams['font.size'] = 12 # Adjust font size as needed
+    plt.rcParams['axes.unicode_minus'] = False # Prevents minus signs from breaking with Korean fonts
+
+    file_path = "/Users/jichal/cpu 메인 파일/특허 로우 데이터/AB_ Zoned Storage 유지관리 기술의 성능 향상 826 모든 리소스.csv"
     print(f"CSV 파일 경로: {file_path}")
     csv_data = read_csv_file(file_path)
     print(f"CSV 데이터 로드 완료. 데이터 개수: {len(csv_data)}")
@@ -50,5 +51,11 @@ def test():
     plt.xlabel("Year")  # x축 레이블
     plt.ylabel("Number of Publications")  # y축 레이블
     plt.title("Technology Trend by Publication Year")  # 그래프 제목
-    plt.savefig('chart.png')  # 그래프 저장
-    print("chart.png 파일 저장 완료.")
+    plt.savefig('./chart.png')  # 그래프 저장
+    print("chart1.png 파일 저장 완료.")
+
+def main():
+    print("Hello from charmake!")
+    test()
+if __name__ == "__main__":
+    main()
